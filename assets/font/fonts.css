@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Hiragino Mincho ProN';
+  src: url('Hiragino-Mincho-ProN-W6.otf');
+  src: local('Hiragino Mincho ProN'), local('Hiragino Mincho ProN W6'), url('Hiragino-Mincho-ProN-W6.otf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hiragino Mincho ProN';
+  src: url('Hiragino-Mincho-ProN-W3.otf');
+  src: local('Hiragino Mincho ProN'), local('Hiragino Mincho ProN W3'), url('Hiragino-Mincho-ProN-W3.otf');
+  font-weight: 300;
+  font-style: normal;
+}
