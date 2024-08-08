@@ -14,6 +14,7 @@
     } else {
       $('.back-to-top').fadeOut('slow');
     }
+
   });
 
   $('.back-to-top').click(function() {
